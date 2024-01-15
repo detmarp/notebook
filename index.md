@@ -1,4 +1,4 @@
-[readme](./readme.md) | [index](./index.md)
+[README](./README.md) | [index](./index.md)
 
 # index
 

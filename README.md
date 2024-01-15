@@ -1,4 +1,4 @@
-[readme](./readme.md) | [index](./index.md)
+[README](./README.md) | [index](./index.md)
 
 # notebook
 A notebook for my experimental journaling system.
