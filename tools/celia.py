@@ -21,7 +21,6 @@ class Celia(object):
     tree = Tree(self.root, relativeKey = True)
     notesFolder = tree.folders['pages']
     self.notesRoot = notesFolder.name
-    print('aaa ' + self.notesRoot)
     # find notes on disk
     prefix = len(self.notesRoot)
     for file in [f for f in tree.files if f.startswith(self.notesRoot)]:
@@ -34,16 +33,13 @@ class Celia(object):
 
   def loadNote(self, note):
     filename = self.notesRoot + '/' + note.relativeFilename
-    print('bbb '+self.notesRoot)
-    print('ccc '+  note.relativeFilename)
-    print('ddd '+filename)
     with open(filename, 'r', encoding='utf-8') as file:
       text = file.read()
       note.load(text)
 
   def writeIndex(self):
     text = self.index.toMd()
-    fileName = os.path.join(self.root, 'index.md')
+    fileName = os.path.join(self.root, '_index.md')
     with open(fileName, 'w') as file:
       file.write(text)
 

@@ -6,7 +6,6 @@ class Index:
     self.map = {}
 
     for note in notes:
-      print(note.hashtags)
       for tag in note.hashtags:
         value = note.relativeFilename
         if tag in self.map:
@@ -18,7 +17,7 @@ class Index:
     text = ''
 
     text +='[README](./README.md) | '
-    text +='[index](./index.md)'
+    text +='[index](./_index.md)'
     text +='\n\n'
 
     text += '# index'
