@@ -1,4 +1,4 @@
-[notebook](../notebook.md)
+[readme](./readme.md) | [index](./index.md)
 
 # index
 

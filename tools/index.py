@@ -17,7 +17,8 @@ class Index:
   def toMd(self):
     text = ''
 
-    text +='[notebook](../notebook.md)'
+    text +='[readme](./readme.md) | '
+    text +='[index](./index.md)'
     text +='\n\n'
 
     text += '# index'
