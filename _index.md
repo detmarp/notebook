@@ -1,8 +1,8 @@
-[README](./README) | [index](./_index)
+[README](README.md) | [index](_index.md)
 
 # index
 
-[#2024-01-12](#2024-01-12) [#2024-01-12t13-01-57](#2024-01-12t13-01-57) [#account](#account) [#detmar](#detmar) [#exercise](#exercise) [#hale](#hale) [#health](#health) [#hiking](#hiking) [#memo](#memo) [#not](#not) [#peterke](#peterke) [#phone](#phone) [#project](#project) [#test](#test) [#testing](#testing) [#thisisatest](#thisisatest) [#work](#work) 
+[#2024-01-12](#2024-01-12) [#2024-01-12t13-01-57](#2024-01-12t13-01-57) [#account](#account) [#detmar](#detmar) [#exercise](#exercise) [#hale](#hale) [#health](#health) [#hiking](#hiking) [#memo](#memo) [#not](#not) [#peterke](#peterke) [#phone](#phone) [#project](#project) [#test](#test) [#testing](#testing) [#thisisatest](#thisisatest) [#work](#work)
 
 ### 2024-01-12
 * [testing/2024-01-12_13-01-57](pages/testing/2024-01-12_13-01-57.md)
