@@ -39,7 +39,7 @@ class Celia(object):
 
   def writeIndex(self):
     text = self.index.toMd()
-    fileName = os.path.join(self.root, '_index.md')
+    fileName = os.path.join(self.root, 'pageindex.md')
     with open(fileName, 'w') as file:
       file.write(text)
 
