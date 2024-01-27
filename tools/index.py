@@ -7,11 +7,10 @@ class Index:
 
     for note in notes:
       for tag in note.hashtags:
-        value = note.relativeFilename
         if tag in self.map:
-          self.map[tag].append(value)
+          self.map[tag].append(note)
         else:
-          self.map[tag] = [value]
+          self.map[tag] = [note]
 
   def toMd(self):
     text = ''
@@ -25,23 +24,39 @@ class Index:
 
     sortedTags = sorted(self.map.keys())
     for tag in sortedTags:
-      anchor = quote(tag[1:], safe='')
+      anchor = quote(tag, safe='')
       text += f'[{tag}](#{anchor}) '
 
     text += '\n\n'
 
     for tag in sortedTags:
-      label = tag[1:]
+      label = tag
       anchor = quote(label, safe='')
       text += f'### {label}'
       if (label != anchor):
         text += f' {{{anchor}}}'
       text += '\n'
       for note in self.map[tag]:
-        label = note[:-3]
-        link = 'pages/' + note
+        label = note.name
+        link = 'pages/' + note.relativeFilename
         text += f'* [{label}]({link})'
+        text += self.suffix(note, tag)
         text += '\n'
       text += '\n'
 
     return text
+
+  def suffix(self, note, tag):
+    # Get suffix display text for this note, under this tag
+    suffix = ''
+    if (note.first):
+      otherTag = note.second
+      if (note.first != tag):
+        otherTag = note.first
+      if otherTag:
+        suffix += f' [{otherTag}]'
+
+    if note.year:
+      suffix += f' [{note.year}]'
+
+    return suffix
