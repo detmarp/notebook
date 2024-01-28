@@ -2,10 +2,13 @@
 
 # index
 
-[account](#account) [bernadette](#bernadette) [detmar](#detmar) [exercise](#exercise) [four](#four) [hale](#hale) [health](#health) [hiking](#hiking) [memo](#memo) [money](#money) [not](#not) [one](#one) [peterke](#peterke) [phone](#phone) [project](#project) [six](#six) [tesla](#tesla) [test](#test) [testing](#testing) [thisisatest](#thisisatest) [three](#three) [two](#two) [venmo](#venmo) [work](#work) 
+[account](#account) [ai](#ai) [bernadette](#bernadette) [detmar](#detmar) [exercise](#exercise) [four](#four) [hale](#hale) [health](#health) [hiking](#hiking) [memo](#memo) [money](#money) [not](#not) [one](#one) [peterke](#peterke) [phone](#phone) [project](#project) [six](#six) [tabnine](#tabnine) [tesla](#tesla) [test](#test) [testing](#testing) [thisisatest](#thisisatest) [three](#three) [two](#two) [venmo](#venmo) [vscode](#vscode) [work](#work) 
 
 ### account
 * [2024-01-11_11-31-37](pages/testing/2024-01-11_11-31-37.md) [work]
+
+### ai
+* [2024-01-27_20-09-34](pages/testing/2024-01-27_20-09-34.md) [vscode]
 
 ### bernadette
 * [venmo_for_hale](pages/2024-01/venmo_for_hale.md) [hale] [2024]
@@ -55,6 +58,9 @@
 ### six
 * [muti tag test](pages/testing/muti tag test.md) [one] [2024]
 
+### tabnine
+* [2024-01-27_20-09-34](pages/testing/2024-01-27_20-09-34.md) [vscode]
+
 ### tesla
 * [2024-01-18_10-07-33](pages/testing/2024-01-18_10-07-33.md)
 
@@ -96,6 +102,9 @@
 
 ### venmo
 * [venmo_for_hale](pages/2024-01/venmo_for_hale.md) [hale] [2024]
+
+### vscode
+* [2024-01-27_20-09-34](pages/testing/2024-01-27_20-09-34.md) [ai]
 
 ### work
 * [2024-01-11_11-31-37](pages/testing/2024-01-11_11-31-37.md) [account]
