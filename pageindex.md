@@ -2,7 +2,7 @@
 
 # index
 
-[account](#account) [ai](#ai) [bernadette](#bernadette) [detmar](#detmar) [exercise](#exercise) [four](#four) [hale](#hale) [health](#health) [hiking](#hiking) [memo](#memo) [money](#money) [not](#not) [one](#one) [peterke](#peterke) [phone](#phone) [project](#project) [six](#six) [tabnine](#tabnine) [tesla](#tesla) [test](#test) [testing](#testing) [thisisatest](#thisisatest) [three](#three) [two](#two) [venmo](#venmo) [vscode](#vscode) [work](#work) 
+[account](#account) [ai](#ai) [bernadette](#bernadette) [detmar](#detmar) [detmar](../../pageindex.md](#detmar%5D%28..%2F..%2Fpageindex.md) [exercise](#exercise) [four](#four) [hale](#hale) [health](#health) [hiking](#hiking) [memo](#memo) [money](#money) [nfl](../../pageindex](#nfl%5D%28..%2F..%2Fpageindex) [not](#not) [one](#one) [peterke](#peterke) [phone](#phone) [playoffs](../../pageindex](#playoffs%5D%28..%2F..%2Fpageindex) [project](#project) [six](#six) [tabnine](#tabnine) [tesla](#tesla) [test](#test) [test](../../pageindex](#test%5D%28..%2F..%2Fpageindex) [testing](#testing) [thisisatest](#thisisatest) [three](#three) [three_four](#three_four) [two](#two) [venmo](#venmo) [vscode](#vscode) [work](#work) 
 
 ### account
 * [2024-01-11_11-31-37](pages/testing/2024-01-11_11-31-37.md) [work]
@@ -15,6 +15,9 @@
 
 ### detmar
 * [2024-01-12_13-01-57](pages/testing/2024-01-12_13-01-57.md) [peterke] [2024]
+
+### detmar](../../pageindex.md {detmar%5D%28..%2F..%2Fpageindex.md}
+* [2024-01-28_08-50-47](pages/testing/2024-01-28_08-50-47.md) [one]
 
 ### exercise
 * [2023-12-30_14-29-55](pages/2023-12/2023-12-30_14-29-55.md)
@@ -40,10 +43,15 @@
 ### money
 * [venmo_for_hale](pages/2024-01/venmo_for_hale.md) [hale] [2024]
 
+### nfl](../../pageindex {nfl%5D%28..%2F..%2Fpageindex}
+* [2024-01-28_10-17-48](pages/testing/2024-01-28_10-17-48.md) [test](../../pageindex]
+* [2024-01-28_10-18-57](pages/testing/2024-01-28_10-18-57.md) [test](../../pageindex]
+
 ### not
 * [2024-01-12_11-37-28](pages/testing/2024-01-12_11-37-28.md) [test]
 
 ### one
+* [2024-01-28_08-50-47](pages/testing/2024-01-28_08-50-47.md) [two]
 * [muti tag test](pages/testing/muti tag test.md) [two] [2024]
 
 ### peterke
@@ -51,6 +59,10 @@
 
 ### phone
 * [2024-01-11_11-31-37](pages/testing/2024-01-11_11-31-37.md) [work]
+
+### playoffs](../../pageindex {playoffs%5D%28..%2F..%2Fpageindex}
+* [2024-01-28_10-17-48](pages/testing/2024-01-28_10-17-48.md) [test](../../pageindex]
+* [2024-01-28_10-18-57](pages/testing/2024-01-28_10-18-57.md) [test](../../pageindex]
 
 ### project
 * [2023-12-29_15-24-21](pages/2023-12/2023-12-29_15-24-21.md)
@@ -60,6 +72,7 @@
 
 ### tabnine
 * [2024-01-27_20-09-34](pages/testing/2024-01-27_20-09-34.md) [vscode]
+* [2024-01-28_07-28-55](pages/testing/2024-01-28_07-28-55.md) [vscode]
 
 ### tesla
 * [2024-01-18_10-07-33](pages/testing/2024-01-18_10-07-33.md)
@@ -81,6 +94,10 @@
 * [2024-01-12_11-37-28](pages/testing/2024-01-12_11-37-28.md) [testing]
 * [2024-01-12_11-38-33](pages/testing/2024-01-12_11-38-33.md) [thisisatest]
 
+### test](../../pageindex {test%5D%28..%2F..%2Fpageindex}
+* [2024-01-28_10-17-48](pages/testing/2024-01-28_10-17-48.md) [nfl](../../pageindex]
+* [2024-01-28_10-18-57](pages/testing/2024-01-28_10-18-57.md) [nfl](../../pageindex]
+
 ### testing
 * [2023-12-29_08-45-32](pages/2023-12/2023-12-29_08-45-32.md)
 * [2023-12-29_09-24-20](pages/2023-12/2023-12-29_09-24-20.md)
@@ -97,7 +114,11 @@
 ### three
 * [muti tag test](pages/testing/muti tag test.md) [one] [2024]
 
+### three_four
+* [2024-01-28_08-50-47](pages/testing/2024-01-28_08-50-47.md) [one]
+
 ### two
+* [2024-01-28_08-50-47](pages/testing/2024-01-28_08-50-47.md) [one]
 * [muti tag test](pages/testing/muti tag test.md) [one] [2024]
 
 ### venmo
@@ -105,6 +126,7 @@
 
 ### vscode
 * [2024-01-27_20-09-34](pages/testing/2024-01-27_20-09-34.md) [ai]
+* [2024-01-28_07-28-55](pages/testing/2024-01-28_07-28-55.md) [tabnine]
 
 ### work
 * [2024-01-11_11-31-37](pages/testing/2024-01-11_11-31-37.md) [account]
