@@ -2,7 +2,7 @@
 
 # index
 
-[account](#account) [ai](#ai) [bernadette](#bernadette) [detmar](#detmar) [detmar](../../pageindex.md](#detmar%5D%28..%2F..%2Fpageindex.md) [exercise](#exercise) [four](#four) [hale](#hale) [health](#health) [hiking](#hiking) [memo](#memo) [money](#money) [nfl](../../pageindex](#nfl%5D%28..%2F..%2Fpageindex) [not](#not) [one](#one) [peterke](#peterke) [phone](#phone) [playoffs](../../pageindex](#playoffs%5D%28..%2F..%2Fpageindex) [project](#project) [six](#six) [tabnine](#tabnine) [tesla](#tesla) [test](#test) [test](../../pageindex](#test%5D%28..%2F..%2Fpageindex) [testing](#testing) [thisisatest](#thisisatest) [three](#three) [three_four](#three_four) [two](#two) [venmo](#venmo) [vscode](#vscode) [work](#work) 
+[account](#account) [ai](#ai) [bernadette](#bernadette) [botox](#botox) [camping](#camping) [detmar](#detmar) [detmar](../../pageindex.md](#detmar%5D%28..%2F..%2Fpageindex.md) [exercise](#exercise) [four](#four) [hale](#hale) [health](#health) [hiking](#hiking) [memo](#memo) [money](#money) [movies](#movies) [nfl](../../pageindex](#nfl%5D%28..%2F..%2Fpageindex) [not](#not) [one](#one) [peterke](#peterke) [phone](#phone) [playoffs](../../pageindex](#playoffs%5D%28..%2F..%2Fpageindex) [poorthings](#poorthings) [project](#project) [sanielp](#sanielp) [six](#six) [tabnine](#tabnine) [tesla](#tesla) [test](#test) [test](../../pageindex](#test%5D%28..%2F..%2Fpageindex) [test](../../pageindex.md](#test%5D%28..%2F..%2Fpageindex.md) [testing](#testing) [thisisatest](#thisisatest) [three](#three) [three_four](#three_four) [two](#two) [venmo](#venmo) [vscode](#vscode) [work](#work) 
 
 ### account
 * [2024-01-11_11-31-37](pages/testing/2024-01-11_11-31-37.md) [work]
@@ -12,6 +12,12 @@
 
 ### bernadette
 * [venmo_for_hale](pages/2024-01/venmo_for_hale.md) [hale] [2024]
+
+### botox
+* [2024-02-09_10-42-09](pages/testing/2024-02-09_10-42-09.md) [health]
+
+### camping
+* [2024-02-03_11-29-37](pages/testing/2024-02-03_11-29-37.md) [sanielp]
 
 ### detmar
 * [2024-01-12_13-01-57](pages/testing/2024-01-12_13-01-57.md) [peterke] [2024]
@@ -31,6 +37,7 @@
 
 ### health
 * [2023-12-29_18-35-08](pages/2023-12/2023-12-29_18-35-08.md) [hale]
+* [2024-02-09_10-42-09](pages/testing/2024-02-09_10-42-09.md) [botox]
 
 ### hiking
 * [2024-01-07_09-49-16](pages/testing/2024-01-07_09-49-16.md)
@@ -42,6 +49,9 @@
 
 ### money
 * [venmo_for_hale](pages/2024-01/venmo_for_hale.md) [hale] [2024]
+
+### movies
+* [poor-things-movie](pages/2024-02/poor-things-movie.md) [poorthings]
 
 ### nfl](../../pageindex {nfl%5D%28..%2F..%2Fpageindex}
 * [2024-01-28_10-17-48](pages/testing/2024-01-28_10-17-48.md) [test](../../pageindex]
@@ -64,8 +74,14 @@
 * [2024-01-28_10-17-48](pages/testing/2024-01-28_10-17-48.md) [test](../../pageindex]
 * [2024-01-28_10-18-57](pages/testing/2024-01-28_10-18-57.md) [test](../../pageindex]
 
+### poorthings
+* [poor-things-movie](pages/2024-02/poor-things-movie.md) [movies]
+
 ### project
 * [2023-12-29_15-24-21](pages/2023-12/2023-12-29_15-24-21.md)
+
+### sanielp
+* [2024-02-03_11-29-37](pages/testing/2024-02-03_11-29-37.md) [camping]
 
 ### six
 * [muti tag test](pages/testing/muti tag test.md) [one] [2024]
@@ -93,10 +109,14 @@
 * [2024-01-12_11-25-54](pages/testing/2024-01-12_11-25-54.md) [test]
 * [2024-01-12_11-37-28](pages/testing/2024-01-12_11-37-28.md) [testing]
 * [2024-01-12_11-38-33](pages/testing/2024-01-12_11-38-33.md) [thisisatest]
+* [2024-01-28_10-28-56](pages/testing/2024-01-28_10-28-56.md)
 
 ### test](../../pageindex {test%5D%28..%2F..%2Fpageindex}
 * [2024-01-28_10-17-48](pages/testing/2024-01-28_10-17-48.md) [nfl](../../pageindex]
 * [2024-01-28_10-18-57](pages/testing/2024-01-28_10-18-57.md) [nfl](../../pageindex]
+
+### test](../../pageindex.md {test%5D%28..%2F..%2Fpageindex.md}
+* [2024-01-28_10-54-47](pages/testing/2024-01-28_10-54-47.md)
 
 ### testing
 * [2023-12-29_08-45-32](pages/2023-12/2023-12-29_08-45-32.md)
