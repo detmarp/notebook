@@ -1,4 +1,4 @@
-[README](README.md) | [index](pageindex.md)
+[README](README.md) | [index](pageindex.md) | [on github pages](https://detmarp.github.io/notebook/)
 
 # notebook
 A notebook for my experimental journaling system.
